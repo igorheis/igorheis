@@ -6,7 +6,7 @@ Olá! Sou **Igor Martins**, profissional de Tecnologia da Informação com mais 
 
 Sou graduado em **Gestão de Tecnologia da Informação** e pós-graduado em **Engenharia de Dados**.
 
-Tenho experiência com **análise e tratamento de dados, automação, desenvolvimento de soluções e suporte a sistemas**, atuando atualmente como **Analista em TI no Sesc**.
+Tenho experiência com **análise e tratamento de dados, automação, desenvolvimento de soluções e suporte a sistemas**.
 
 ### 🛠️ Principais tecnologias
 
