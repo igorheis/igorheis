@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👨🏻‍💻 Igor Martins
 
-<!--
-**igorheis/igorheis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Analista de Dados | Cientista de Dados | Analista de Sistemas`**
 
-Here are some ideas to get you started:
+Olá! Sou **Igor Martins**, profissional de Tecnologia da Informação com mais de **4 anos de experiência em TI e Dados**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Sou graduado em **Gestão de Tecnologia da Informação** e pós-graduado em **Engenharia de Dados**.
+
+Tenho experiência com **análise e tratamento de dados, automação, desenvolvimento de soluções e suporte a sistemas**, atuando atualmente como **Analista em TI no Sesc**.
+
+### 🛠️ Principais tecnologias
+
+🐍 **Python** • 🗄️ **SQL** • 📊 **Power BI** • 🐼 **Pandas**
+☁️ **AWS** • **Azure** • **Google Cloud**
+🔄 **ETL/ELT** • 📈 **Data Analytics** • 🤖 **Data Science**
+
+### 📂 Projetos
+
+Aqui compartilho projetos relacionados a **Dados, Python, SQL, BI e Engenharia de Dados**.
+
+### 🔗 Conecte-se comigo
+
+[![GitHub](https://img.shields.io/badge/GitHub-igorheis-181717?style=for-the-badge\&logo=github)](https://github.com/igorheis)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Igor%20Martins-0A66C2?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com/in/igormartinsti/)
