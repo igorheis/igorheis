@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Igor Martins
 
-**`Analista de Dados | Cientista de Dados | Analista de Sistemas`**
+**`Analista de Dados | Analista em IA | Analista de Sistemas`**
 
 Olá! Sou **Igor Martins**, profissional de Tecnologia da Informação com mais de **4 anos de experiência em TI e Dados**.
 
